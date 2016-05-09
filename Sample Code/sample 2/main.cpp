@@ -33,7 +33,7 @@ int main(){
 //	B.son_protected();
 	
 	cout << "Son call father :" << endl;
-//	B.son_call_father();
+	B.son_call_father();
 	
 	cout << endl;
 	

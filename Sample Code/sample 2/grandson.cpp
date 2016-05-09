@@ -21,5 +21,5 @@ void grandson::grandson_protected(){
 
 void grandson::grandson_call_son(){
 	son_public();
-//	son_protected();
+	son_protected();
 }
